@@ -37,10 +37,10 @@
     "tag": "vehículo",
     "category": "seguros",
     "approximateAmount": 350,
-    "scheduledPaymentDate": "2025-06-02T22:00:00.000Z",
+    "scheduledPaymentDate": "2025-02-18T23:00:00.000Z",
     "actualPaymentDate": null,
     "actualAmount": null,
-    "paymentStatus": "FAILED",
+    "paymentStatus": "PENDING",
     "bank": "Banco Seguros",
     "createdAt": "2024-05-03T12:00:00.000Z"
   },
