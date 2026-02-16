@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b1a2c3d4-e5f6-7890-abcd-1234567890ab",
+    "name": "Electricidad",
+    "description": "Pago mensual de la factura de luz",
+    "issuer": "Compañía Eléctrica",
+    "tag": "hogar",
+    "category": "servicios",
+    "approximateAmount": 75.50,
+    "scheduledPaymentDate": "2024-06-10T00:00:00.000Z",
+    "actualPaymentDate": "2024-06-09T00:00:00.000Z",
+    "actualAmount": 74.80,
+    "paymentStatus": "PAID",
+    "bank": "Banco Central",
+    "createdAt": "2024-05-01T12:00:00.000Z"
+  },
+  {
+    "id": "c2b3a4d5-e6f7-8901-bcda-2345678901bc",
+    "name": "Internet",
+    "description": "Pago mensual de servicio de internet",
+    "issuer": "Proveedor Internet",
+    "tag": "hogar",
+    "category": "servicios",
+    "approximateAmount": 40.00,
+    "scheduledPaymentDate": "2024-06-15T00:00:00.000Z",
+    "actualPaymentDate": null,
+    "actualAmount": null,
+    "paymentStatus": "PENDING",
+    "bank": "Banco Digital",
+    "createdAt": "2024-05-02T12:00:00.000Z"
+  },
+  {
+    "id": "d3c4b5a6-f7e8-9012-cdab-3456789012cd",
+    "name": "Seguro de auto",
+    "description": "Pago anual del seguro del vehículo",
+    "issuer": "Aseguradora",
+    "tag": "vehículo",
+    "category": "seguros",
+    "approximateAmount": 350.00,
+    "scheduledPaymentDate": "2024-07-01T00:00:00.000Z",
+    "actualPaymentDate": null,
+    "actualAmount": null,
+    "paymentStatus": "FAILED",
+    "bank": "Banco Seguros",
+    "createdAt": "2024-05-03T12:00:00.000Z"
+  }
+]
