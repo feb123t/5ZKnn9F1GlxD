@@ -20,7 +20,7 @@
     "description": "Pago mensual de servicio de internet",
     "issuer": "Proveedor Internet",
     "tag": "hogar",
-    "category": "servicios",
+    "category": "Salut",
     "approximateAmount": 40,
     "scheduledPaymentDate": "2025-12-14T23:00:00.000Z",
     "actualPaymentDate": null,
