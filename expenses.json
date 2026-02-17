@@ -45,18 +45,18 @@
     "createdAt": "2024-05-03T12:00:00.000Z"
   },
   {
+    "id": "b5c60f4a-04c1-4d8b-b35d-acce650b707f",
     "name": "qweqwe",
     "description": "qwewqewq",
     "issuer": "qwewqewq",
     "tag": "dfaxasxd",
-    "category": "Telecommunications",
+    "category": "Oci",
     "approximateAmount": 455,
     "scheduledPaymentDate": "2026-12-31T23:00:00.000Z",
     "actualPaymentDate": null,
     "actualAmount": null,
     "paymentStatus": "PENDING",
     "bank": "sdasdas",
-    "id": "b5c60f4a-04c1-4d8b-b35d-acce650b707f",
     "createdAt": "2026-02-16T17:17:22.162Z"
   }
 ]
