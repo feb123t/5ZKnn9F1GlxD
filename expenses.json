@@ -5,7 +5,7 @@
     "description": "Pago mensual de la factura de luz",
     "issuer": "Compañía Eléctrica",
     "tag": "hogar",
-    "category": "servicios",
+    "category": "Educació",
     "approximateAmount": 75.5,
     "scheduledPaymentDate": "2026-05-31T22:00:00.000Z",
     "actualPaymentDate": "2026-06-01T22:00:00.000Z",
