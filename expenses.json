@@ -40,7 +40,7 @@
     "scheduledPaymentDate": "2025-11-18T23:00:00.000Z",
     "actualPaymentDate": null,
     "actualAmount": null,
-    "paymentStatus": "PENDING",
+    "paymentStatus": "PAID",
     "bank": "Banco Seguros",
     "createdAt": "2024-05-03T12:00:00.000Z"
   },
