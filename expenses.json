@@ -35,7 +35,7 @@
     "description": "Pago anual del seguro del vehículo",
     "issuer": "Aseguradora",
     "tag": "vehículo",
-    "category": "seguros",
+    "category": "Assegurança",
     "approximateAmount": 350,
     "scheduledPaymentDate": "2025-11-18T23:00:00.000Z",
     "actualPaymentDate": null,
