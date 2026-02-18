@@ -220,7 +220,7 @@
     "scheduledPaymentDate": "2026-05-10T00:00:00.000Z",
     "actualPaymentDate": null,
     "actualAmount": null,
-    "paymentStatus": "PENDING",
+    "paymentStatus": "PAID",
     "bank": "Santander",
     "createdAt": "2026-04-25T08:45:00.000Z"
   },
