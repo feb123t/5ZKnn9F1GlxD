@@ -169,7 +169,7 @@
     "name": "Alquiler Piso",
     "description": "Renta mensual del apartamento",
     "issuer": "Inmobiliaria García",
-    "tag": "Hogar",
+    "tag": "Miami",
     "category": "Lloguer/Hipoteca",
     "approximateAmount": 850,
     "scheduledPaymentDate": "2026-01-18T23:00:00.000Z",
