@@ -154,7 +154,7 @@
     "name": "Factura Electricidad",
     "description": "Consumo eléctrico mensual del hogar",
     "issuer": "Endesa",
-    "tag": "Hogar",
+    "tag": "Apartament",
     "category": "Subministraments",
     "approximateAmount": 90,
     "scheduledPaymentDate": "2026-01-15T00:00:00.000Z",
