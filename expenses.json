@@ -162,6 +162,8 @@
     "actualAmount": 45.98,
     "paymentStatus": "PAID",
     "bank": "CaixaBank",
+    "periodicity": "BIMENSUAL",
+    "fraction": "TERCERA",
     "createdAt": "2025-12-20T10:30:00.000Z"
   },
   {
